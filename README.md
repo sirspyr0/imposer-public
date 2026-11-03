@@ -1,6 +1,6 @@
 # Imposer
 
-**Version 0.4.1-beta**
+**Version 0.4.2-beta**
 
 Professional desktop imposition software for the print industry. Create N-up layouts, booklet signatures, multi-up impositions, and more with an intuitive interface.
 
@@ -72,7 +72,7 @@ Imposer is a comprehensive imposition solution designed specifically for commerc
 
 ## Pricing & Availability
 
-This software is currently in beta development and not yet available for purchase.
+Imposer is available in beta. Licenses are offered through the [Imposer store](https://imposer.pikzulstudios.com/shop/). The unsigned Windows x64 **Imposer Beta 0.4.2-beta** installer, checksum, and installation and activation instructions are available on the [download page](https://imposer.pikzulstudios.com/download/).
 
 **Interested in early access or custom development?**
 Contact us to discuss your specific print workflow needs.
